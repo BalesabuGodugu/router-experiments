@@ -1,0 +1,19 @@
+h2{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+ul li{
+  display: inline-block;
+  list-style-type: none;
+  margin-right:25px;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+a{
+  text-decoration: none;
+}
